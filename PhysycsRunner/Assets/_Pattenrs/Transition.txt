@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PatternObjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Childs>
+    <ChildInfo>
+      <ObjectName>Gates</ObjectName>
+      <LocalPosition>
+        <x>9.5</x>
+        <y>0</y>
+        <z>5.5</z>
+      </LocalPosition>
+      <Settings>&lt;?xml version="1.0"?&gt;
+&lt;PoolObjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;SelfDestroy&gt;false&lt;/SelfDestroy&gt;
+&lt;/PoolObjectInfo&gt;</Settings>
+    </ChildInfo>
+  </Childs>
+  <Size>
+    <x>10</x>
+    <y>0</y>
+    <z>20</z>
+  </Size>
+</PatternObjectInfo>
